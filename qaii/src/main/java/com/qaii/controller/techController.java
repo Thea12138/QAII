@@ -388,4 +388,6 @@ public class techController {
 	public String work(){
 		return "page/science/work";
 	}
+	
+	//asaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 }
